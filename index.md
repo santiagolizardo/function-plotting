@@ -1,0 +1,7 @@
+![fx_exp_x.png graph](fx_exp_x.png "fx_exp_x.png graph")
+![fx_log_x.png graph](fx_log_x.png "fx_log_x.png graph")
+![fx_sin_x.png graph](fx_sin_x.png "fx_sin_x.png graph")
+![fx_cos_x.png graph](fx_cos_x.png "fx_cos_x.png graph")
+![fx_multi.png graph](fx_multi.png "fx_multi.png graph")
+![fx_tan_x.png graph](fx_tan_x.png "fx_tan_x.png graph")
+![fx_trig.png graph](fx_trig.png "fx_trig.png graph")
