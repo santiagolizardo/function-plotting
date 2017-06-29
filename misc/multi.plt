@@ -1,4 +1,3 @@
-png_filename = "fx_multi.png"
 load "lib_common.plt"
 
 set multiplot
