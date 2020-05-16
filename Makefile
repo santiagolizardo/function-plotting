@@ -1,5 +1,5 @@
 
-PLT_FILES=$(wildcard **/*.plt)
+PLT_FILES=$(sort $(wildcard **/*.plt))
 PNG_FILES=$(PLT_FILES:.plt=.png)
 .SUFFIXES: .plt .png
 
