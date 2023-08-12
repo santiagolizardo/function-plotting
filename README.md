@@ -7,5 +7,5 @@ Requirements
 ============
 
 * Make
-* GNU plot
+* GNU plot +5.4
 
