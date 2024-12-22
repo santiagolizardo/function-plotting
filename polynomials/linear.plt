@@ -1,4 +1,4 @@
-load "lib_common.plt"
+load "common.plt"
 plot x**1
 
 

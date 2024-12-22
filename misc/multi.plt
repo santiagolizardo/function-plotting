@@ -1,4 +1,4 @@
-load "lib_common.plt"
+load "common.plt"
 
 set multiplot
 set size 1, 0.5

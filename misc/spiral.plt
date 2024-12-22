@@ -1,4 +1,4 @@
-load "lib_common.plt"
+load "common.plt"
 set parametric
 set xrange [pi*-10 : pi*10]
 set yrange [pi*-10 : pi*10]

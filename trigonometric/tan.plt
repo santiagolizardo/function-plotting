@@ -1,5 +1,6 @@
-load "lib_common.plt"
-set xrange [-pi*4:pi*4]
-set yrange [-2:2]
-plot tan(x)
+load "trigonometric/common.plt"
+
+set title "Tangent"
+
+plot tan(x) title "y = tan(x)"
 

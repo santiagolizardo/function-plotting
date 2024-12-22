@@ -1,5 +1,5 @@
 
-load "lib_common.plt"
+load "common.plt"
 set size square 1, 1
 set samples 1000
 set xrange [-10 : 10]

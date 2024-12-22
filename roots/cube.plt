@@ -1,4 +1,4 @@
-load "lib_common.plt"
+load "common.plt"
 set xrange [-6 to 6]
 set yrange [-6 to 6]
 set samples 1000

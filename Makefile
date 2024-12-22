@@ -1,5 +1,4 @@
-
-PLT_FILES=$(sort $(wildcard **/*.plt))
+PLT_FILES=$(sort $(filter-out %/common.plt, $(wildcard **/*.plt)))
 PNG_FILES=$(PLT_FILES:.plt=.png)
 .SUFFIXES: .plt .png
 

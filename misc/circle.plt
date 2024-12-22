@@ -1,4 +1,4 @@
-load "lib_common.plt"
+load "common.plt"
 set parametric
 set xrange [-1 : 1]
 set yrange [-1 : 1]

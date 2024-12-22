@@ -1,3 +1,3 @@
-load "lib_common.plt"
+load "common.plt"
 plot log(+-x)
 

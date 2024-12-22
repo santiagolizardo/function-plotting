@@ -1,4 +1,4 @@
-load "lib_common.plt"
+load "common.plt"
 
 set title "Cardioid"
 set parametric

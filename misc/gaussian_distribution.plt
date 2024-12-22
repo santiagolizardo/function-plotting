@@ -1,4 +1,4 @@
-load "lib_common.plt"
+load "common.plt"
 set terminal pngcairo  transparent enhanced font "arial,8" fontscale 1.0 size 512, 280 
 set clip two
 set bar 1.000000 front
